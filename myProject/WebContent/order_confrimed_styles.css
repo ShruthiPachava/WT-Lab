@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+body{
+	background-color: #06021c;
+	background-repeat: no-repeat;
+	background-size: cover;
+	 background-blend-mode: screen;
+	background-image:url("https://i1.adis.ws/i/canon/dig_book_print_hero_1280x768?w=1199&sm=aspect&aspect=16:9&qlt=80&fmt=jpg&fmt.options=interlaced&bg=rgb(255,255,255)");
+}
+h1{
+	font-size:80px;
+    text-align:center;
+	color:white;
+	font-family: 'Questrial', sans-serif;
+	margin-top:220px;
+	
+
+}
+hr{
+	opacity:0.5;
+	margin-left: 400px;
+	margin-right: 400px;
+	margin-top:-50px;
+}
+h3{
+	font-size:25px;
+    text-align:center;
+	color:white;
+	font-family: 'Questrial', sans-serif;
+	}
+	p{
+		font-size:25px;
+		 text-align:center;
+	color:white;
+	font-family: 'Questrial', sans-serif;
+	}
+	a{
+		text-decoration: none;
+		color:#359c3f;
+	font-family: 'Questrial', sans-serif;
+
+	}

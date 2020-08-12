@@ -1,0 +1,83 @@
+@charset "UTF-8";
+div{
+	background: #2c2636;
+	width:900px;
+	margin:auto;
+	
+	margin-top: -30px;
+	filter:opacity(86%);
+	font-family: 'Questrial', sans-serif;
+	font-size: 13px;
+	border-radius:12px;	
+}
+body{
+	
+	background-color: #06021c;
+	background-repeat: no-repeat;
+	background-size: cover;
+	 background-blend-mode: screen;
+	background-image:url("https://ismbook.com/wp-content/uploads/2018/12/best-philosophy-books.jpg");
+}
+hr{
+	opacity:0.4;
+}
+.box{
+	border-radius: 3px; 
+	padding-left: 12px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background-color: #eef2eb;
+    border:1px solid #eef2eb;
+    color:#282927;
+    margin-bottom:10px;
+    height:40px;
+    width:600px;
+    margin-left:150px;
+    margin-top:-12px;
+
+}
+.box:focus{
+	outline:none;
+}
+p{
+	padding-left:150px;
+	margin-top:-3px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+   font-weight: bold;
+   color:white;
+    
+
+}
+h1{ 
+	font-size: 36px;
+	font-family:Noto Sans, sans-serif ;
+    color:white;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+    
+}
+.page_header{
+    color:white;
+    margin: 40px 0 20px;
+    border-bottom: 1px solid #eee;
+    padding-top: 60px;
+   
+    padding-left: 40px;
+}
+.button{
+	 height:40px;
+    width:200px;
+    background-color:#359c3f;
+    margin-left:300px;
+    cursor:pointer;
+    text-align:center;
+    outline:none;
+    border: 1px solid #359c3f;
+    margin-bottom: 40px;
+    margin-top:15px;
+    color:white;
+    border-radius: 8px;
+     font-size:17px;
+}
